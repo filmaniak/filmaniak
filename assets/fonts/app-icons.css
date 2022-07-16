@@ -1,10 +1,10 @@
 @font-face {
     font-family: "app-icons";
-    src: url("./app-icons.eot?60356a2d118a569a3fc4e4e736dfe96b?#iefix") format("embedded-opentype"),
-url("./app-icons.woff2?60356a2d118a569a3fc4e4e736dfe96b") format("woff2"),
-url("./app-icons.woff?60356a2d118a569a3fc4e4e736dfe96b") format("woff"),
-url("./app-icons.ttf?60356a2d118a569a3fc4e4e736dfe96b") format("truetype"),
-url("./app-icons.svg?60356a2d118a569a3fc4e4e736dfe96b#app-icons") format("svg");
+    src: url("./app-icons.eot?52a4b18914d8cac14b6f445a02bc985c?#iefix") format("embedded-opentype"),
+url("./app-icons.woff2?52a4b18914d8cac14b6f445a02bc985c") format("woff2"),
+url("./app-icons.woff?52a4b18914d8cac14b6f445a02bc985c") format("woff"),
+url("./app-icons.ttf?52a4b18914d8cac14b6f445a02bc985c") format("truetype"),
+url("./app-icons.svg?52a4b18914d8cac14b6f445a02bc985c#app-icons") format("svg");
 }
 
 i[class^="app-icons-"]:before, i[class*=" app-icons-"]:before {
