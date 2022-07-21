@@ -1,5 +1,7 @@
 {
-    "icons-menu": "\\f101",
-    "icons-search": "\\f102",
-    "icons-user": "\\f103"
+    "icons-calendar": "\\f101",
+    "icons-clock": "\\f102",
+    "icons-menu": "\\f103",
+    "icons-search": "\\f104",
+    "icons-user": "\\f105"
 }
