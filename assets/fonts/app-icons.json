@@ -1,8 +1,12 @@
 {
-    "icons-calendar": "\\f101",
-    "icons-clock": "\\f102",
-    "icons-menu": "\\f103",
-    "icons-play": "\\f104",
-    "icons-search": "\\f105",
-    "icons-user": "\\f106"
+    "icons-bookmark": "\\f101",
+    "icons-calendar": "\\f102",
+    "icons-clock": "\\f103",
+    "icons-heart": "\\f104",
+    "icons-list": "\\f105",
+    "icons-menu": "\\f106",
+    "icons-play": "\\f107",
+    "icons-search": "\\f108",
+    "icons-star": "\\f109",
+    "icons-user": "\\f10a"
 }
