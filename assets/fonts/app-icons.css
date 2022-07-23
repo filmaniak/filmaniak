@@ -1,10 +1,10 @@
 @font-face {
     font-family: "app-icons";
-    src: url("./app-icons.eot?d5c011057b4a27d10d0552f8a140df8c?#iefix") format("embedded-opentype"),
-url("./app-icons.woff2?d5c011057b4a27d10d0552f8a140df8c") format("woff2"),
-url("./app-icons.woff?d5c011057b4a27d10d0552f8a140df8c") format("woff"),
-url("./app-icons.ttf?d5c011057b4a27d10d0552f8a140df8c") format("truetype"),
-url("./app-icons.svg?d5c011057b4a27d10d0552f8a140df8c#app-icons") format("svg");
+    src: url("./app-icons.eot?8c643f661bcf1639607995db59f555c9?#iefix") format("embedded-opentype"),
+url("./app-icons.woff2?8c643f661bcf1639607995db59f555c9") format("woff2"),
+url("./app-icons.woff?8c643f661bcf1639607995db59f555c9") format("woff"),
+url("./app-icons.ttf?8c643f661bcf1639607995db59f555c9") format("truetype"),
+url("./app-icons.svg?8c643f661bcf1639607995db59f555c9#app-icons") format("svg");
 }
 
 i[class^="app-icons-"]:before, i[class*=" app-icons-"]:before {
@@ -30,21 +30,24 @@ i[class^="app-icons-"]:before, i[class*=" app-icons-"]:before {
 .app-icons-heart:before {
     content: "\f104";
 }
-.app-icons-list:before {
+.app-icons-image:before {
     content: "\f105";
 }
-.app-icons-menu:before {
+.app-icons-list:before {
     content: "\f106";
 }
-.app-icons-play:before {
+.app-icons-menu:before {
     content: "\f107";
 }
-.app-icons-search:before {
+.app-icons-play:before {
     content: "\f108";
 }
-.app-icons-star:before {
+.app-icons-search:before {
     content: "\f109";
 }
-.app-icons-user:before {
+.app-icons-star:before {
     content: "\f10a";
+}
+.app-icons-user:before {
+    content: "\f10b";
 }

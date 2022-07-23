@@ -3,10 +3,11 @@
     "icons-calendar": "\\f102",
     "icons-clock": "\\f103",
     "icons-heart": "\\f104",
-    "icons-list": "\\f105",
-    "icons-menu": "\\f106",
-    "icons-play": "\\f107",
-    "icons-search": "\\f108",
-    "icons-star": "\\f109",
-    "icons-user": "\\f10a"
+    "icons-image": "\\f105",
+    "icons-list": "\\f106",
+    "icons-menu": "\\f107",
+    "icons-play": "\\f108",
+    "icons-search": "\\f109",
+    "icons-star": "\\f10a",
+    "icons-user": "\\f10b"
 }
