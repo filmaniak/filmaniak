@@ -1,10 +1,10 @@
 @font-face {
     font-family: "app-icons";
-    src: url("./app-icons.eot?8c643f661bcf1639607995db59f555c9?#iefix") format("embedded-opentype"),
-url("./app-icons.woff2?8c643f661bcf1639607995db59f555c9") format("woff2"),
-url("./app-icons.woff?8c643f661bcf1639607995db59f555c9") format("woff"),
-url("./app-icons.ttf?8c643f661bcf1639607995db59f555c9") format("truetype"),
-url("./app-icons.svg?8c643f661bcf1639607995db59f555c9#app-icons") format("svg");
+    src: url("./app-icons.eot?2e89d737e54ef6212a26296aa2b4997c?#iefix") format("embedded-opentype"),
+url("./app-icons.woff2?2e89d737e54ef6212a26296aa2b4997c") format("woff2"),
+url("./app-icons.woff?2e89d737e54ef6212a26296aa2b4997c") format("woff"),
+url("./app-icons.ttf?2e89d737e54ef6212a26296aa2b4997c") format("truetype"),
+url("./app-icons.svg?2e89d737e54ef6212a26296aa2b4997c#app-icons") format("svg");
 }
 
 i[class^="app-icons-"]:before, i[class*=" app-icons-"]:before {
@@ -27,10 +27,10 @@ i[class^="app-icons-"]:before, i[class*=" app-icons-"]:before {
 .app-icons-clock:before {
     content: "\f103";
 }
-.app-icons-heart:before {
+.app-icons-close:before {
     content: "\f104";
 }
-.app-icons-image:before {
+.app-icons-heart:before {
     content: "\f105";
 }
 .app-icons-list:before {
